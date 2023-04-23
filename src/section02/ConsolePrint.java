@@ -15,6 +15,9 @@ public class ConsolePrint {
 		System.out.println("Java World");
 		
 		System.out.printf("오늘은 %d월 %d일 입니다.", 4, 22);
+		
+		System.out.printf("%d은 첫번째, %f는 두번째, %s은 세번째.\n", 1, 2.0, "셋");
 	}
 
 }
+
